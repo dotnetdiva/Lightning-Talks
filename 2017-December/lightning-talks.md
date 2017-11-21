@@ -6,5 +6,3 @@ Name | Topic
 Patrick Steger | 5-Minute Serverless Blitz
 Kevin Feasel | WTF Visualizations
 Elaine Cahill | LINQ YOLO
-<your name here> | <your topic here>
-  
